@@ -10,7 +10,7 @@
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Solves connection problems and network issues. | someaddon |
 | [Continuity](https://github.com/PepperCode1/Continuity) | Allows resource packs that use OptiFine connected textures format to work without OptiFine. | PepperCode1 |
 | [Distant Horizons](https://gitlab.com/distant-horizons-team/distant-horizons) | Adds a Level Of Detail system to increase render distance without harming performance. | Distant Horizons Team |
-| [Do a Barrel Roll](https://gitlab.com/distant-horizons-team/distant-horizons](https://modrinth.com/mod/do-a-barrel-roll/) | Microsoft flight simulator for Minecraft elytras. | enjarai |
+| [Do A Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll/) | Microsoft flight simulator for Minecraft elytras. | enjarai |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Automatically reduces rendering speed when minecraft is not focused. | juliand665 |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Uses async path-tracing to skip rendering Tiles/Entities that are not visible. | tr9zw |
 | [ExperimentalPerformance](https://github.com/PedrixzZ/ExperimentalPerformanceUnofficial) | Experimental changes to boost performance. | FxMorin, Moroque, PedrixzZ |
