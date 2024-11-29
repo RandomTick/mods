@@ -30,8 +30,8 @@ Ideal für Spieler, die ein fortgeschrittenes Minecraft-Erlebnis suchen.
 
 Details zu allen enthaltenen Mods findest du in den jeweiligen Markdown-Dateien:  
 
-- **[Lite Version Mod-Liste](./ClientSiteModsLite.md)**  
-- **[Full Version Mod-Liste](./ClientSiteMods.md)**  
+- **[Lite Version Mod-Liste](./ClientSideModsLite.md)**  
+- **[Full Version Mod-Liste](./ClientSideMods.md)**  
 
 In den Mod-Listen sind die Namen, Versionen und Links zu den offiziellen Seiten der Mods enthalten. So kannst du dich bei Bedarf selbst informieren.
 
