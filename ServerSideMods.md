@@ -16,9 +16,9 @@
 | [No Chat Report](https://modrinth.com/mod/no-chat-reports) | Strips cryptographic signatures from chat messages. | Aizistral |
 | [Raknetify](https://modrinth.com/plugin/raknetify) | Improves network performance using raknet. | ishland |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | Improves performance of light updates. | ishland |
+| [Servux](https://github.com/sakura-ryoko/servux) | Servux is a server-side mod that provides extra support/features for some client-side mods when playing on a server. | Sakura & Ryoko |
 | [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | A working voice chat in Minecraft! | henkelmax |
 | [Spark](https://modrinth.com/mod/spark) | spark is a performance profiler for Minecraft clients, servers and proxies. | lucko |
-| [Syncmatica](https://modrinth.com/mod/syncmatica) | Allows sharing of schematics and placements. | kpzip |
 | [Terralith](https://modrinth.com/mod/terralith) | Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. | Stardust Labs |
 | [Tectonic](https://modrinth.com/mod/tectonic) | Massively altered world generation with mountain ranges, underground rivers and more! | Apollo |
 
